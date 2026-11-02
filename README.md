@@ -15,7 +15,7 @@ assets/docs/  cv-thomas.pdf (à remplacer par le vrai CV)
 ```
 
 ## Installation
-Aucune dépendance : ouvrir `index.html` dans un navigateur, ou lancer `python3 -m http.server` à la racine du projet.
+Aucune dépendance : ouvrir `index.html` dans un navigateur.
 
 ## Déploiement (serveur mutualisé)
 Envoyer tout le contenu du dossier à la racine du site (`www/` ou `public_html/`) par FTP ou via le gestionnaire de fichiers.
